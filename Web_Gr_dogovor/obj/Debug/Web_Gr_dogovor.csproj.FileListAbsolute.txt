@@ -1,0 +1,5 @@
+c:\users\qni_2\documents\visual studio 2010\Projects\Web_Gr_dogovor\Web_Gr_dogovor\bin\Web_Gr_dogovor.dll
+c:\users\qni_2\documents\visual studio 2010\Projects\Web_Gr_dogovor\Web_Gr_dogovor\bin\Web_Gr_dogovor.pdb
+c:\users\qni_2\documents\visual studio 2010\Projects\Web_Gr_dogovor\Web_Gr_dogovor\obj\Debug\ResolveAssemblyReference.cache
+c:\users\qni_2\documents\visual studio 2010\Projects\Web_Gr_dogovor\Web_Gr_dogovor\obj\Debug\Web_Gr_dogovor.dll
+c:\users\qni_2\documents\visual studio 2010\Projects\Web_Gr_dogovor\Web_Gr_dogovor\obj\Debug\Web_Gr_dogovor.pdb
